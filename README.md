@@ -1,2 +1,4 @@
 # OSSPrac
+# malc
+- SGE
 
